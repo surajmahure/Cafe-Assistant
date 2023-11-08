@@ -1,7 +1,5 @@
 # Cafe-Assistant
 
-**# Cafe Assistant**
-
 ## Description
 
 Cafe Assistant is a Python project that emulates the ordering process at a cafe. It allows customers to order coffee, tea, or samosas, and it also checks if the customer is a bird based on their name.
